@@ -1,0 +1,35 @@
+commit 50db60753525e67a17cf2f61d05cdf239e3bdf6c
+Author: Ege Karadibak <>
+Date:   Mon Apr 13 16:07:43 2020 -0400
+
+    Fixed bugs and added further comments
+
+commit a819289a737af4b434f97110b96371aee52c3a03
+Author: Ege Karadibak <>
+Date:   Mon Apr 13 15:25:26 2020 -0400
+
+    Implemented polyapp main function in polyapp.c
+
+commit 8a3b9516e4984495e9d719db60c02a42f282c26d
+Author: Ege Karadibak <>
+Date:   Mon Apr 13 15:16:12 2020 -0400
+
+    Implemented displayPolynomial and evaluatePolynomial functions in poly.c
+
+commit c6359657c147047f3c5e4ef7aed4edbc7d703c30
+Author: Ege Karadibak <>
+Date:   Mon Apr 13 14:47:58 2020 -0400
+
+    Implemented parse and powi functions in utils.c
+
+commit 6e20f9c230e21176d2dfdb0fa862444b97b1b8f2
+Author: Ege Karadibak <>
+Date:   Mon Apr 13 14:18:59 2020 -0400
+
+    Added poly.h header and implemented addToPoly function
+
+commit a04e3055dd30dbff74fc69c9bc6df5341f078c7f
+Author: Ege Karadibak <>
+Date:   Mon Apr 13 00:27:56 2020 -0400
+
+    Added module source and header files
